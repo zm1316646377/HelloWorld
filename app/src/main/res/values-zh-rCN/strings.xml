@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">你好世界</string>
+    <string name="textview">显示</string>
+    <string name="button_right">右</string>
+    <string name="button_left">左</string>
+    <string name="switch_switch">开关</string>
+    <string name="confirm_btn">确定</string>
+    <string name="progress_hint">请输入数值</string>
+    <string name="android_radio_btn">Android</string>
+    <string name="apple_radio_btn">Apple</string>
+    <string name="checkbox1">语文</string>
+    <string name="checkbox2">数学</string>
+    <string name="checkbox3">英语</string>
+    <string name="image_des">图片</string>
+    <string name="viewmode_btn1">+1</string>
+    <string name="viewmodel_btn2">+2</string>
+    <string name="welcome">Welcome</string>
+</resources>
